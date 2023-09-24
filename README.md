@@ -35,11 +35,11 @@ This plugin is open-source software licensed under the [GNU General Public Licen
 
 ## Author
 
-The Delhi Weather Plugin is developed by [Your Name].
+The Delhi Weather Plugin is developed by BISHWAJEET KUMAR.
 
 ## Support and Contact
 
-For support or questions, please contact [Your Email Address].
+For support or questions, please contact bishwajeetk999@gmail.com.
 
 ## Acknowledgments
 
