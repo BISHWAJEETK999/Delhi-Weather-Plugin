@@ -1,0 +1,26 @@
+/* Style for the fake weather widget */
+.Delhi-weather-widget {
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f7f7f7;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.weather-icon {
+    font-size: 36px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.weather-temp {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.weather-condition {
+    font-size: 16px;
+    color: #555;
+}
