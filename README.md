@@ -1,6 +1,6 @@
 # Delhi Weather Plugin
 
-The Delhi Weather Plugin is a WordPress plugin that displays a fake weather widget for New Delhi, India. It's a simple and customizable way to add a weather widget to your WordPress site.
+The Delhi Weather Plugin is a WordPress plugin that displays a  delhi weather widget for New Delhi, India. It's a simple and customizable way to add a weather widget to your WordPress site.
 
 ## Installation
 
@@ -23,11 +23,11 @@ You can customize the styles and expand the conditions and icons as needed by mo
 
 ### Styling
 
-You can modify the styles of the weather widget by editing the `fake-weather.css` file located in the `delhi-weather-plugin` folder.
+You can modify the styles of the weather widget by editing the ` delhi-weather.css` file located in the `delhi-weather-plugin` folder.
 
 ### Adding More Conditions and Icons
 
-To add more weather conditions and icons, edit the `get_fake_weather_icon()` and `get_fake_condition()` functions in the `delhi-weather.php` file.
+To add more weather conditions and icons, edit the `get_ delhi_weather_icon()` and `get_ delhi_condition()` functions in the `delhi-weather.php` file.
 
 ## License
 
@@ -45,4 +45,4 @@ For support or questions, please contact bishwajeetk999@gmail.com.
 
 This plugin was created as a simple demonstration and can be customized further to suit your needs.
 
-Enjoy using the Delhi Weather Plugin!
+Enjoy using the Delhi Weather Plugin!
